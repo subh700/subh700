@@ -16,7 +16,7 @@
 ## 🌲 About This Journey
 
 <div align="center">
-  <p><i>Like a tree grows from a seed, my passion for technology flourished in the mountains .</i></p>
+  <p><i>Like a tree grows from a seed, my passion for technology flourished in the mountains.</i></p>
   <p>I'm a <strong>Full-Stack Developer & Data Scientist</strong> who believes in building solutions that scale like ecosystems.</p>
 </div>
 
@@ -25,7 +25,7 @@
 ║  💚 Code should be as clean as mountain air               ║
 ║  💙 Ideas flow like mountain streams                      ║
 ║  🌿 Every solution grows from deep roots                  ║
-║  ❤️  Innovation thrives when we respect nature           ║
+║  ❤️  Innovation thrives when we respect nature            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
@@ -35,6 +35,7 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="25%">🐍 <br/> <strong>Python</strong> <br/> Ai & Deep Learning</td>
     <td align="center" width="25%">🐍 <br/> <strong>Python</strong> <br/> ML & Data Science</td>
     <td align="center" width="25%">🟨 <br/> <strong>JavaScript</strong> <br/> Full-Stack</td>
     <td align="center" width="25%">☕ <br/> <strong>Java</strong> <br/> Enterprise</td>
@@ -44,6 +45,9 @@
 
 ### 🌍 Tech Stack Overview
 
+**ML/AI Ecosystem 🤖**
+- TensorFlow • PyTorch • Scikit-learn
+
 **Frontend Roots 🌱**
 - React • Next.js • Tailwind CSS • Material UI
 
@@ -52,9 +56,6 @@
 
 **Cloud Architecture 🏔️**
 - Docker • Kubernetes • AWS • GCP
-
-**ML/AI Ecosystem 🤖**
-- TensorFlow • PyTorch • Scikit-learn
 
 ---
 
@@ -80,7 +81,7 @@
 ## 🎯 2026 Mountain Summit Plan
 
 ### Q1: Climb Higher 🚀
-- [ ] Advanced ML Peaks
+- [ ] Advanced ML and DS Peaks
 - [ ] 10+ Research Papers (Seeds for Knowledge)
 - [ ] 1 AI Application (Planting New Trees)
 
@@ -103,7 +104,7 @@
 
 ## 📈 Currently Growing
 
-**Advanced ML Patterns** • **Cloud Architectures** • **Open-Source Ecosystems**
+**Advanced Quantum** •**Advanced ML Patterns** • **Cloud Architectures** • **Open-Source Ecosystems**
 
 ---
 
