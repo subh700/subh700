@@ -1,324 +1,213 @@
-<h1 align="center">🚀 Welcome to Subham Kumar's Digital Universe 🌟</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subham-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/subh700"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://techgrafico.in"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://dev.to/subh700"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://orcid.org/0009-0003-8852-6436"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-</p>
-
----
-
-## 🎯 About Me
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-```python
-class SubhamKumar:
-    def __init__(self):
-        self.name = "Subham Kumar"
-        self.role = "Full-Stack Developer | Data Scientist | ML Enthusiast"
-        self.location = "Ravangla, Sikkim, India 🏔️"
-        self.passion = "Building intelligent systems with AI/ML & Open Source"
-        self.status = "Continuously Learning & Growing"
-        self.languages = ["Python", "JavaScript", "Java", "SQL"]
-        self.frameworks = ["React", "Node.js", "TensorFlow", "PyTorch"]
-        self.tools = ["Docker", "Kubernetes", "Git", "AWS", "GCP"]
-        
-    def get_expertise(self):
-        return {
-            'Full-Stack Development': '★★★★★',
-            'Machine Learning': '★★★★☆',
-            'Data Science': '★★★★★',
-            'Cloud Architecture': '★★★★☆',
-            'Problem Solving': '★★★★★'
-        }
 ```
-
----
-
-## 📊 GitHub Statistics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subh700&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh700&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh700&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🛠️ Technology Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-### 🔧 Backend & API Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📦 Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🎯 Key Project Areas
-- 🤖 **AI/ML Solutions**: Building intelligent systems with TensorFlow & PyTorch
-- 📊 **Data Science**: Advanced analytics & visualization projects
-- 🌐 **Full-Stack Apps**: Creating end-to-end web applications
-- 💼 **Open Source**: Active contributor to multiple projects
-- 🚀 **Cloud Architecture**: Designing scalable cloud solutions
-
----
-
-## 🎓 Expertise & Highlights
+🏔️  Nestled in the heart of Sikkim's mountains
+   where code flows like streams
+   and creativity grows with nature
+```
 
 <div align="center">
 
-| Category | Achievement |
-|----------|-------------|
-| 🏆 Contributions | 90+ commits this year |
-| 📚 Repositories | 115+ public repositories |
-| 🌐 Projects | Multiple production-grade applications |
-| 🔥 Streak | Consistently innovating |
-| 🎯 Focus | AI/ML, Cloud, & Full-Stack Development |
+# 🌿 Subham Kumar
+## *Code Roots | Mountain Spirit | Data Gardener*
+
+*"In nature, nothing can be given, all things are sold." - But we believe in sharing knowledge.*
 
 </div>
 
-### ✨ Key Strengths
-- 🔥 **Passionate** about open-source development
-- 📖 **Always learning** new technologies
-- 💛 **Love collaborating** on innovative projects
-- 🧠 **Strong problem-solving** skills
-- 🚀 **Quick learner** & adaptable professional
-- 💻 **Full-stack** expertise across web & mobile
-- 🤖 **AI/ML proficiency** in multiple domains
+---
+
+## 🌲 About This Journey
+
+Like a tree grows from a seed, my passion for technology flourished in the mountains of Ravangla, Sikkim. 
+
+I'm a **Full-Stack Developer** & **Data Scientist** who believes:
+- 💚 Code should be as clean as mountain air
+- 🌊 Ideas flow like mountain streams
+- 🌱 Every solution grows from deep roots
+- 🦋 Innovation thrives when we respect nature
+
+**Currently Growing**: Advanced ML patterns, Cloud architectures, and open-source ecosystems
 
 ---
 
-## 📚 Current Focus & Learning
+## 🌍 Natural Tech Stack
 
-<p align="center">
-  <img alt="Exploring" src="https://img.shields.io/badge/🔍_Exploring-Advanced_AI/ML_Architectures-blue?style=flat-square"/>
-  <img alt="Learning" src="https://img.shields.io/badge/📖_Learning-Cloud_Native_Development-green?style=flat-square"/>
-  <img alt="Building" src="https://img.shields.io/badge/🏗️_Building-Scalable_Web_Apps-orange?style=flat-square"/>
-  <img alt="Experimenting" src="https://img.shields.io/badge/⚡_Experimenting-Cutting_Edge_ML_Models-red?style=flat-square"/>
-</p>
+**🌳 Foundation** (Core Languages)
+- Python 🐍 • JavaScript 🌟 • Java ☕ • SQL 💧
 
----
+**🌿 Frontend Growth**
+- React 🎨 • Next.js ⚡ • Tailwind CSS 🎭 • Material UI 🎪
 
-## 🎖️ Achievements & Certifications
+**🌾 Backend Roots**
+- Node.js 🌲 • Express.js 🌊 • Django 🌽 • FastAPI ⚙️
 
-- ✅ **Google Cloud Certified** Associate Cloud Engineer
-- ✅ **AWS Certified** Solutions Architect Associate
-- ✅ **TensorFlow Developer** Certification
-- ✅ **Full-Stack Web Developer** with 5+ years experience
-- ✅ **Open Source Contributor** to major projects
-- ✅ **Published Research** in AI & Data Science
+**🤖 AI/ML Ecosystem**
+- TensorFlow 🧠 • PyTorch 💭 • Scikit-learn 📊
+
+**☁️ Cloud & DevOps** (Building on the mountain)
+- Docker 📦 • Kubernetes 🎯 • AWS ⛅ • GCP 🌤️
 
 ---
 
-## 🔄 Recent Activity
+## 📊 Growth Metrics & Seasons
 
-<p align="center">
-  📈 <strong>2024 Goals</strong>
-  <br/>
-  ☑️ Contribute to 50+ open-source projects
-  <br/>
-  ☑️ Complete Advanced AI specialization
-  <br/>
-  ☑️ Build 3 production ML applications
-  <br/>
-  ☑️ Publish 2 technical blog posts monthly
-  <br/>
-  ☑️ Mentor 10+ junior developers
-</p>
+```
+╔════════════════════════════════════════╗
+║  🌱 SEASONAL DEVELOPMENT CYCLES        ║
+╠════════════════════════════════════════╣
+║  Spring (Q1):  ML Specialization       ║
+║  Summer (Q2):  Cloud Architecture      ║
+║  Autumn (Q3):  Mentoring & Teaching    ║
+║  Winter (Q4):  Community Building      ║
+╚════════════════════════════════════════╝
+```
 
----
-
-## 🌍 Let's Connect & Collaborate!
-
-<h3 align="center">📞 Get In Touch</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subham-kumar">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/subh700">🐦 Twitter</a> •
-  <a href="https://techgrafico.in">💼 Portfolio</a> •
-  <a href="https://dev.to/subh700">📝 Blog</a> •
-  <a href="https://orcid.org/0009-0003-8852-6436">🆔 ORCID</a>
-  <br/><br/>
-  📧 Always open to discussing innovative projects, opportunities, and collaborations!
-</p>
-
-<p align="center">
-  <i>"Code is poetry written in logic, and every line contributes to a masterpiece."</i>
-</p>
+**📈 Natural Statistics**
+- **Commits**: 90+ this season 🌿
+- **Repositories**: 115+ gardens cultivated 🌳
+- **Technologies**: 50+ tools in my toolbox 🛠️
+- **Languages**: 6 programming languages 📚
+- **Open Source**: Growing contributor 🌱
 
 ---
 
-<p align="center">
-  <img src="https://github.com/subh700/subh700/blob/main/assets/wave.gif?raw=true" width="30px" alt="Wave"/>
-  <strong>Thanks for visiting my profile!</strong>
-  <img src="https://github.com/subh700/subh700/blob/main/assets/wave.gif?raw=true" width="30px" alt="Wave"/>
-  <br/>
-  Feel free to connect and collaborate! Let's build something amazing together! 🎉
-</p>
+## 🦅 My Ecosystem
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=brightgreen" alt="Profile Views Counter"/>
-</p>
+### 🎯 Project Habitats
 
+🤖 **AI/ML Deep Forests** - Building intelligent systems with TensorFlow & PyTorch
 
----
+📊 **Data Science Wetlands** - Advanced analytics & complex visualizations
 
-## 💬 Coding Activity & Productivity
+🌐 **Full-Stack Mountains** - End-to-end web applications scaling to the clouds
 
-### 📊 Language Breakdown
+💼 **Open Source Gardens** - Actively contributing to community ecosystems
 
-| Language | Percentage | Level |
-|:---:|:---:|:---:|
-| Jupyter Notebook | 56.12% | 🟩 Excellent |
-| HTML | 14.36% | 🟩 Advanced |
-| Python | 11.11% | 🟩 Mastered |
-| JavaScript | 7.15% | 🟨 Proficient |
-| CSS | 6.82% | 🟨 Proficient |
-| TeX | 4.45% | 🟨 Good |
+🏗️ **Cloud Architecture** - Designing scalable, sustainable solutions
 
 ---
 
-## ⭐ Quick Stats Cards
+## 🌺 Values & Principles
 
-| 💪 Commits | 🚀 Repositories | 🌐 Technologies |
-|:---:|:---:|:---:|
-| **90+** | **115+** | **50+** |
-| This Year | Public | Mastered |
-| 🔥 Active | 📚 Growing | ✨ Learning |
+```
+🌿  Clean Code     : Like a well-maintained garden
+💡  Innovation     : Growing new ideas from old roots
+🤝  Collaboration  : Many hands make light work
+📚  Knowledge      : Sharing wisdom like seeds
+🌍  Sustainability: Building for future generations
+```
 
----
-
-## 🎨 Design & Creative Skills
-
-**UI/UX Design**
-- Figma Expert
-- Responsive Design
-- Prototyping & Wireframes
-- Color Theory & Typography
-- Accessibility First
-
-**Visual Development**
-- SVG Animations
-- CSS3 Advanced Effects
-- Interactive UI Components
-- Data Visualization
-- Creative Coding
+**Key Strengths**
+- 🔥 Passionate about open-source growth
+- 📖 Always learning nature's lessons
+- 💛 Love collaborating with kindred spirits
+- 🧠 Problem-solving through nature's patterns
+- 🚀 Quick adaptation & growth mindset
+- 🌳 Full-stack expertise across ecosystems
+- 🤖 AI/ML proficiency in multiple domains
 
 ---
 
-## 🤖 DevOps & Infrastructure
+## 🗻 2026 Mountain Summit Plan
 
-**Containerization**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-- ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman)
+**Q1: Climb Higher**
+- 🎓 Advanced ML peaks
+- 📖 10+ Research papers (seeds for knowledge)
+- 🏗️ 1 AI Application (planting new trees)
 
-**Cloud Deployment**
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
-- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)
-
-**CI/CD & Automation**
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab)
-
----
-
-## 🎯 2026 Roadmap & Goals
-
-### Q1 2026
-- 🎓 Advanced ML Specialization
-- 📖 Read 10+ Research Papers
-- 🏗️ Build 1 AI Application
-
-### Q2 2026
-- 🌐 Learn Web3 & Blockchain
+**Q2: Expand the Forest**
+- 🌐 Web3 & Blockchain exploration
 - 🚀 Deploy 5+ Projects
-- 📊 Contribute to 10+ Open Source
+- 📊 10+ Open Source contributions
 
-### Q3 2026
-- 👥 Mentor 5+ Developers
-- 📝 Write 6 Technical Blogs
+**Q3: Share the Harvest**
+- 👥 Mentor 5+ Junior developers
+- 📝 6 Technical blogs (sharing seeds)
 - 🎤 Speak at 1 Tech Conference
 
-### Q4 2026
+**Q4: Build the Community**
 - 🏆 Lead Major Project
-- 🤝 Build Dev Community
+- 🤝 Build Developer Community
 - 🌟 Establish Thought Leadership
 
 ---
 
-## 🌈 Fun Facts About Me
+## 🍃 Journey Map
 
-☕ **Coffee Lover** - Coding sessions powered by espresso!
+**Where I Come From**: 🏔️ Ravangla, Sikkim
+- Lost in mountains, found in code
+- Growing where nature meets technology
+- Building bridges between earth and innovation
 
-🎵 **Music Enthusiast** - Code + Music = Perfect Productivity
+**What I Do**: 💼 Full-Stack Development & Data Science
+- Creating solutions that scale like ecosystems
+- Turning data into wisdom
+- Planting seeds for future growth
 
-🏔️ **Mountain Lover** - Nature lover from Sikkim 🏞️
+**Where I'm Going**: 🚀 Cloud Innovation & AI Leadership
+- Expanding to new horizons
+- Mentoring next generation
+- Growing a sustainable tech community
 
-📚 **Lifelong Learner** - Always Growing & Evolving!
+---
 
-🚀 **Tech Dreamer** - Building the future, one line at a time
+## 🌊 Connect in the Natural Flow
+
+<div align="center">
+
+| 🔗 Connection | Link |
+|:---:|:---:|
+| 💼 LinkedIn | [In Profile](https://linkedin.com/in/subham-kumar) |
+| 🐦 Twitter | [@subh700](https://twitter.com/subh700) |
+| 🌐 Portfolio | [Garden of Work](https://techgrafico.in) |
+| 📝 Blog | [Thoughts & Seeds](https://dev.to/subh700) |
+| 🆔 ORCID | [Research Identity](https://orcid.org/0009-0003-8852-6436) |
+
+</div>
+
+---
+
+## 🌻 Fun Facts - Natural Me
+
+☕ **Coffee Cultivator** - Every line of code is watered with espresso ☕
+
+🎵 **Forest Musician** - The rhythm of code + The melody of music = Perfect sync 🎶
+
+⛰️ **Mountain Spirit** - Born in Sikkim, forever connected to these peaks 🏔️
+
+📚 **Nature's Scholar** - Learning from both books and mountain whispers 📖
+
+🌱 **Growth Mindset** - Every challenge is a seed for future growth 🌿
+
+🦋 **Continuous Evolution** - Like butterflies transform, so do I ✨
 
 ---
 
 <div align="center">
 
-### 🌟 Thank You for Visiting! 🌟
+```
+        🌲
+       /|\\
+      / | \\
+     /  |  \\
+       🧑‍💻   
+        ||  
+       /||\\
+      / || \\
+     /  ||  \\
 
-**Give this profile a ⭐ if you found it awesome!**
+   Rooted in Code
+   Growing with Nature
+```
+
+## 🌟 *Thank You for Walking This Path* 🌟
+
+*Like a seed that needs sun and water to grow,*
+*collaboration and community help us all flourish.*
+
+**🌿 Let's grow together. Let's code better. Let's build sustainable tech. 🌿**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=brightgreen)](https://github.com/subh700)
 
-**Let's collaborate and build amazing things together! 🚀**
+*"The creation of a thousand forests is in one acorn." - Ralph Waldo Emerson*
 
 </div>
