@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📋 SUBHAM KUMAR</h1>
   <h3>Full-Stack ML Engineer | Data Scientist | Tech Innovator</h3>
-  <p><strong>Ravangla, Sikkim, India 🏔️</strong> | <strong>he/him</strong></p>
+  <p><strong>India 🏔️</strong> | <strong>he/him</strong></p>
 </div>
 
 ---
