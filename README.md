@@ -16,7 +16,7 @@
 ## 🌲 About This Journey
 
 <div align="center">
-  <p><i>Like a tree grows from a seed, my passion for technology flourished in the mountains of Ravangla, Sikkim.</i></p>
+  <p><i>Like a tree grows from a seed, my passion for technology flourished in the mountains .</i></p>
   <p>I'm a <strong>Full-Stack Developer & Data Scientist</strong> who believes in building solutions that scale like ecosystems.</p>
 </div>
 
