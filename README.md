@@ -207,3 +207,118 @@ class SubhamKumar:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=brightgreen" alt="Profile Views Counter"/>
 </p>
+
+
+---
+
+## 💬 Coding Activity & Productivity
+
+### 📊 Language Breakdown
+
+| Language | Percentage | Level |
+|:---:|:---:|:---:|
+| Jupyter Notebook | 56.12% | 🟩 Excellent |
+| HTML | 14.36% | 🟩 Advanced |
+| Python | 11.11% | 🟩 Mastered |
+| JavaScript | 7.15% | 🟨 Proficient |
+| CSS | 6.82% | 🟨 Proficient |
+| TeX | 4.45% | 🟨 Good |
+
+---
+
+## ⭐ Quick Stats Cards
+
+| 💪 Commits | 🚀 Repositories | 🌐 Technologies |
+|:---:|:---:|:---:|
+| **90+** | **115+** | **50+** |
+| This Year | Public | Mastered |
+| 🔥 Active | 📚 Growing | ✨ Learning |
+
+---
+
+## 🎨 Design & Creative Skills
+
+**UI/UX Design**
+- Figma Expert
+- Responsive Design
+- Prototyping & Wireframes
+- Color Theory & Typography
+- Accessibility First
+
+**Visual Development**
+- SVG Animations
+- CSS3 Advanced Effects
+- Interactive UI Components
+- Data Visualization
+- Creative Coding
+
+---
+
+## 🤖 DevOps & Infrastructure
+
+**Containerization**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+- ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman)
+
+**Cloud Deployment**
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
+- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)
+
+**CI/CD & Automation**
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+- ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab)
+
+---
+
+## 🎯 2026 Roadmap & Goals
+
+### Q1 2026
+- 🎓 Advanced ML Specialization
+- 📖 Read 10+ Research Papers
+- 🏗️ Build 1 AI Application
+
+### Q2 2026
+- 🌐 Learn Web3 & Blockchain
+- 🚀 Deploy 5+ Projects
+- 📊 Contribute to 10+ Open Source
+
+### Q3 2026
+- 👥 Mentor 5+ Developers
+- 📝 Write 6 Technical Blogs
+- 🎤 Speak at 1 Tech Conference
+
+### Q4 2026
+- 🏆 Lead Major Project
+- 🤝 Build Dev Community
+- 🌟 Establish Thought Leadership
+
+---
+
+## 🌈 Fun Facts About Me
+
+☕ **Coffee Lover** - Coding sessions powered by espresso!
+
+🎵 **Music Enthusiast** - Code + Music = Perfect Productivity
+
+🏔️ **Mountain Lover** - Nature lover from Sikkim 🏞️
+
+📚 **Lifelong Learner** - Always Growing & Evolving!
+
+🚀 **Tech Dreamer** - Building the future, one line at a time
+
+---
+
+<div align="center">
+
+### 🌟 Thank You for Visiting! 🌟
+
+**Give this profile a ⭐ if you found it awesome!**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=brightgreen)](https://github.com/subh700)
+
+**Let's collaborate and build amazing things together! 🚀**
+
+</div>
