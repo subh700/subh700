@@ -1,213 +1,117 @@
-```
-🏔️  Nestled in the heart of mountains
-   where code flows like streams
-   and creativity grows with nature
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🌿+Subham+Kumar;Full-Stack+ML+Engineer;Data+Scientist+%7C+Code+Gardener" alt="Typing SVG"/>
+</div>
+
+<br/>
 
 <div align="center">
-
-# 🌿 Subham Kumar
-## *Code Roots | Mountain Spirit | Data Gardener*
-
-*"In nature, nothing can be given, all things are sold." - But we believe in sharing knowledge.*
-
+  <a href="https://linkedin.com/in/subham-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/subh700" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/subh700" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://orcid.org/0009-0003-8852-6436" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </div>
 
 ---
 
 ## 🌲 About This Journey
 
-Like a tree grows from a seed, my passion for technology flourished in the mountains of Ravangla, Sikkim. 
+<div align="center">
+  <p><i>Like a tree grows from a seed, my passion for technology flourished in the mountains of Ravangla, Sikkim.</i></p>
+  <p>I'm a <strong>Full-Stack Developer & Data Scientist</strong> who believes in building solutions that scale like ecosystems.</p>
+</div>
 
-I'm a **Full-Stack Developer** & **Data Scientist** who believes:
-- 💚 Code should be as clean as mountain air
-- 🌊 Ideas flow like mountain streams
-- 🌱 Every solution grows from deep roots
-- 🦋 Innovation thrives when we respect nature
-
-**Currently Growing**: Advanced ML patterns, Cloud architectures, and open-source ecosystems
+```
+╔════════════════════════════════════════════════════════════╗
+║  💚 Code should be as clean as mountain air               ║
+║  💙 Ideas flow like mountain streams                      ║
+║  🌿 Every solution grows from deep roots                  ║
+║  ❤️  Innovation thrives when we respect nature           ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🌍 Natural Tech Stack
+## 🚀 Technical Arsenal
 
-**🌳 Foundation** (Core Languages)
-- Python 🐍 • JavaScript 🌟 • Java ☕ • SQL 💧
+<table align="center">
+  <tr>
+    <td align="center" width="25%">🐍 <br/> <strong>Python</strong> <br/> ML & Data Science</td>
+    <td align="center" width="25%">🟨 <br/> <strong>JavaScript</strong> <br/> Full-Stack</td>
+    <td align="center" width="25%">☕ <br/> <strong>Java</strong> <br/> Enterprise</td>
+    <td align="center" width="25%">💾 <br/> <strong>SQL</strong> <br/> Databases</td>
+  </tr>
+</table>
 
-**🌿 Frontend Growth**
-- React 🎨 • Next.js ⚡ • Tailwind CSS 🎭 • Material UI 🎪
+### 🌍 Tech Stack Overview
 
-**🌾 Backend Roots**
-- Node.js 🌲 • Express.js 🌊 • Django 🌽 • FastAPI ⚙️
+**Frontend Roots 🌱**
+- React • Next.js • Tailwind CSS • Material UI
 
-**🤖 AI/ML Ecosystem**
-- TensorFlow 🧠 • PyTorch 💭 • Scikit-learn 📊
+**Backend Growth 🌳**
+- Node.js • Express.js • Django • FastAPI
 
-**☁️ Cloud & DevOps** (Building on the mountain)
-- Docker 📦 • Kubernetes 🎯 • AWS ⛅ • GCP 🌤️
+**Cloud Architecture 🏔️**
+- Docker • Kubernetes • AWS • GCP
+
+**ML/AI Ecosystem 🤖**
+- TensorFlow • PyTorch • Scikit-learn
 
 ---
 
 ## 📊 Growth Metrics & Seasons
 
 ```
-╔════════════════════════════════════════╗
-║  🌱 SEASONAL DEVELOPMENT CYCLES        ║
-╠════════════════════════════════════════╣
-║  Spring (Q1):  ML Specialization       ║
-║  Summer (Q2):  Cloud Architecture      ║
-║  Autumn (Q3):  Mentoring & Teaching    ║
-║  Winter (Q4):  Community Building      ║
-╚════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║  Spring (Q1): 🌱 ML Specialization & Skill Enhancement       ║
+║  Summer (Q2): 🌞 Cloud Architecture & System Design          ║
+║  Autumn (Q3): 🍂 Mentoring & Teaching Others                 ║
+║  Winter (Q4): ❄️  Community Building & Innovation            ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**📈 Natural Statistics**
-- **Commits**: 90+ this season 🌿
-- **Repositories**: 115+ gardens cultivated 🌳
-- **Technologies**: 50+ tools in my toolbox 🛠️
-- **Languages**: 6 programming languages 📚
-- **Open Source**: Growing contributor 🌱
+**Current Stats:**
+- 📦 **116+** Repositories Cultivated
+- ⭐ **90+** Commits This Season
+- 🎯 **50+** Technologies in Toolbox
+- 👥 **9** Followers | Following **28**
 
 ---
 
-## 🦅 My Ecosystem
+## 🎯 2026 Mountain Summit Plan
 
-### 🎯 Project Habitats
+### Q1: Climb Higher 🚀
+- [ ] Advanced ML Peaks
+- [ ] 10+ Research Papers (Seeds for Knowledge)
+- [ ] 1 AI Application (Planting New Trees)
 
-🤖 **AI/ML Deep Forests** - Building intelligent systems with TensorFlow & PyTorch
+### Q2: Expand the Forest 🌲
+- [ ] Web3 & Blockchain Exploration
+- [ ] Deploy 5+ Production Projects
+- [ ] 10+ Open Source Contributions
 
-📊 **Data Science Wetlands** - Advanced analytics & complex visualizations
+### Q3: Share the Harvest 🌾
+- [ ] Mentor 5+ Junior Developers
+- [ ] Write 6 Technical Blogs
+- [ ] Speak at 1 Tech Conference
 
-🌐 **Full-Stack Mountains** - End-to-end web applications scaling to the clouds
-
-💼 **Open Source Gardens** - Actively contributing to community ecosystems
-
-🏗️ **Cloud Architecture** - Designing scalable, sustainable solutions
-
----
-
-## 🌺 Values & Principles
-
-```
-🌿  Clean Code     : Like a well-maintained garden
-💡  Innovation     : Growing new ideas from old roots
-🤝  Collaboration  : Many hands make light work
-📚  Knowledge      : Sharing wisdom like seeds
-🌍  Sustainability: Building for future generations
-```
-
-**Key Strengths**
-- 🔥 Passionate about open-source growth
-- 📖 Always learning nature's lessons
-- 💛 Love collaborating with kindred spirits
-- 🧠 Problem-solving through nature's patterns
-- 🚀 Quick adaptation & growth mindset
-- 🌳 Full-stack expertise across ecosystems
-- 🤖 AI/ML proficiency in multiple domains
+### Q4: Build the Community 🤝
+- [ ] Lead Major Project
+- [ ] Build Developer Community
+- [ ] Establish Thought Leadership
 
 ---
 
-## 🗻 2026 Mountain Summit Plan
+## 📈 Currently Growing
 
-**Q1: Climb Higher**
-- 🎓 Advanced ML peaks
-- 📖 10+ Research papers (seeds for knowledge)
-- 🏗️ 1 AI Application (planting new trees)
-
-**Q2: Expand the Forest**
-- 🌐 Web3 & Blockchain exploration
-- 🚀 Deploy 5+ Projects
-- 📊 10+ Open Source contributions
-
-**Q3: Share the Harvest**
-- 👥 Mentor 5+ Junior developers
-- 📝 6 Technical blogs (sharing seeds)
-- 🎤 Speak at 1 Tech Conference
-
-**Q4: Build the Community**
-- 🏆 Lead Major Project
-- 🤝 Build Developer Community
-- 🌟 Establish Thought Leadership
-
----
-
-## 🍃 Journey Map
-
-**Where I Come From**: 🏔️ 
-- Lost in mountains, found in code
-- Growing where nature meets technology
-- Building bridges between earth and innovation
-
-**What I Do**: 💼 Full-Stack Development & Data Science
-- Creating solutions that scale like ecosystems
-- Turning data into wisdom
-- Planting seeds for future growth
-
-**Where I'm Going**: 🚀 Cloud Innovation & AI Leadership
-- Expanding to new horizons
-- Mentoring next generation
-- Growing a sustainable tech community
-
----
-
-## 🌊 Connect in the Natural Flow
-
-<div align="center">
-
-| 🔗 Connection | Link |
-|:---:|:---:|
-| 💼 LinkedIn | [In Profile](https://linkedin.com/in/subham-kumar) |
-| 🐦 Twitter | [@subh700](https://twitter.com/subh700) |
-| 🌐 Portfolio | [Garden of Work](https://techgrafico.in) |
-| 📝 Blog | [Thoughts & Seeds](https://dev.to/subh700) |
-| 🆔 ORCID | [Research Identity](https://orcid.org/0009-0003-8852-6436) |
-
-</div>
-
----
-
-## 🌻 Fun Facts - Natural Me
-
-☕ **Coffee Cultivator** - Every line of code is watered with espresso ☕
-
-🎵 **Forest Musician** - The rhythm of code + The melody of music = Perfect sync 🎶
-
-⛰️ **Mountain Spirit** - Born in Sikkim, forever connected to these peaks 🏔️
-
-📚 **Nature's Scholar** - Learning from both books and mountain whispers 📖
-
-🌱 **Growth Mindset** - Every challenge is a seed for future growth 🌿
-
-🦋 **Continuous Evolution** - Like butterflies transform, so do I ✨
+**Advanced ML Patterns** • **Cloud Architectures** • **Open-Source Ecosystems**
 
 ---
 
 <div align="center">
-
-```
-        🌲
-       /|\\
-      / | \\
-     /  |  \\
-       🧑‍💻   
-        ||  
-       /||\\
-      / || \\
-     /  ||  \\
-
-   Rooted in Code
-   Growing with Nature
-```
-
-## 🌟 *Thank You for Walking This Path* 🌟
-
-*Like a seed that needs sun and water to grow,*
-*collaboration and community help us all flourish.*
-
-**🌿 Let's grow together. Let's code better. Let's build sustainable tech. 🌿**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=brightgreen)](https://github.com/subh700)
-
-*"The creation of a thousand forests is in one acorn." - Ralph Waldo Emerson*
-
+  <h3>💡 Philosophy</h3>
+  <p><i>"In nature, nothing can be given, all things are sold." - But we believe in sharing knowledge.</i></p>
+  <br/>
+  <p>🌿 Let's build something beautiful together 🌿</p>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=subh700&style=flat-square&color=green" alt="Profile Views" />
 </div>
