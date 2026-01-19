@@ -1,5 +1,5 @@
 ```
-🏔️  Nestled in the heart of Sikkim's mountains
+🏔️  Nestled in the heart of mountains
    where code flows like streams
    and creativity grows with nature
 ```
@@ -133,7 +133,7 @@ I'm a **Full-Stack Developer** & **Data Scientist** who believes:
 
 ## 🍃 Journey Map
 
-**Where I Come From**: 🏔️ Ravangla, Sikkim
+**Where I Come From**: 🏔️ 
 - Lost in mountains, found in code
 - Growing where nature meets technology
 - Building bridges between earth and innovation
